@@ -42,7 +42,7 @@ nav ul li a{
     color: #4c956c;
 }
 /* added work area */
-#work{
+.work{
     background-color: #4c956c;
     text-align: center;
     color: white;
@@ -57,6 +57,21 @@ nav ul li a{
     display: inline-block;
     line-height: 200px;
 }
+
+#project1 {
+    color: #f25f5c;
+}
+#project2 {
+    color: #f25f5c;
+}
+#project3 {
+    color: #f25f5c;
+}
+#project4 {
+    color: #f25f5c;
+}
+
+    
 /* added contact me footer */
 .contact-me{
     background-color: #586994;
@@ -66,4 +81,15 @@ nav ul li a{
     display: flex;
     flex-wrap: wrap;
     justify-content:space-evenly
+}
+
+/* added media screens */
+@media screen and (max-width: 992px) {
+    main, main-header, nav, footer {
+        flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+main, .main-header, nav, footer{
+    flex-direction: column;
 }
