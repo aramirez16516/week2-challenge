@@ -57,4 +57,13 @@ nav ul li a{
     display: inline-block;
     line-height: 200px;
 }
-
+/* added contact me footer */
+.contact-me{
+    background-color: #586994;
+    color: white;
+    font-size: 20px;
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly
+}
