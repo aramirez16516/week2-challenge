@@ -10,7 +10,7 @@
     align-items:center;
     justify-content: space-between;
     padding: 30px;
-    background-color: gray;
+    background-color: #586994;
     color:white;
 }
 h1{
@@ -37,7 +37,7 @@ nav ul li a{
 /* Change font size of headings */
 .about-me{
     padding: 5%;
-    background-color: lightgray;
+    background-color: #d1cfe2;
     text-align: center;
     color: white;
 }
