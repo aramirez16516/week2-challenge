@@ -34,10 +34,27 @@ nav ul li a{
     text-decoration: none;
 }
 
-/* Change font size of headings */
+/* updated class and colors */
 .about-me{
     padding: 5%;
     background-color: #d1cfe2;
     text-align: center;
+    color: #4c956c;
+}
+/* added work area */
+#work{
+    background-color: #4c956c;
+    text-align: center;
     color: white;
 }
+
+/* added work area boxes */
+.project {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    display: inline-block;
+    line-height: 200px;
+}
+
