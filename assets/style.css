@@ -33,3 +33,11 @@ nav ul li a{
     color:white;
     text-decoration: none;
 }
+
+/* Change font size of headings */
+.about-me{
+    padding: 5%;
+    background-color: lightgray;
+    text-align: center;
+    color: white;
+}
