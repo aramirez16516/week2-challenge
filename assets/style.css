@@ -69,6 +69,7 @@ nav ul li a{
 
 #project1:hover {
     transform: scale(1.1);
+    text-decoration: none;
 }
 
 #project2 {
@@ -98,7 +99,7 @@ nav ul li a{
 
 /* added media screens */
 @media screen and (max-width: 992px) {
-    main, main-header, nav, footer {
+    main, .main-header, nav, footer {
         flex-direction: column;
 }
 
