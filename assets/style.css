@@ -10,7 +10,7 @@
     align-items:center;
     justify-content: space-between;
     padding: 30px;
-    background-color: #586994;
+    background-color: #3d518c;
     color:white;
 }
 h1{
@@ -37,15 +37,17 @@ nav ul li a{
 /* updated class and colors */
 .about-me{
     padding: 5%;
-    background-color: #d1cfe2;
+    background-color: #7692ff;
     text-align: center;
-    color: #4c956c;
+    color: white;
+    font-size: 25px;
 }
 /* added work area */
 .work{
-    background-color: #4c956c;
+    background-color: #3d518c;
     text-align: center;
     color: white;
+    padding: 50px;
 }
 
 /* added work area boxes */
@@ -59,25 +61,29 @@ nav ul li a{
 }
 
 #project1 {
+    font-size: 40px;
     color: #f25f5c;
 }
 #project2 {
+    font-size: 40px;
     color: #f25f5c;
 }
 #project3 {
+    font-size: 40px;
     color: #f25f5c;
 }
 #project4 {
+    font-size: 40px;
     color: #f25f5c;
 }
 
     
 /* added contact me footer */
 .contact-me{
-    background-color: #586994;
+    background-color: #7692ff;
     color: white;
     font-size: 20px;
-    padding: 1%;
+    padding: 2%;
     display: flex;
     flex-wrap: wrap;
     justify-content:space-evenly
