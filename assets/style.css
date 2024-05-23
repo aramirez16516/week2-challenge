@@ -93,7 +93,7 @@ nav ul li a{
     padding: 2%;
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-evenly
+    justify-content:space-evenly;
 }
 
 /* added media screens */
