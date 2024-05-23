@@ -12,3 +12,5 @@ Screenshot:
 ## Credits
 https://www.w3schools.com/css/css_pseudo_classes.asp
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page
+https://www.youtube.com/watch?v=kUMe1FH4CHE&t=6190s
+https://blog.hubspot.com/website/html-projects-personal-portfolio
