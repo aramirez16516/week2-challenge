@@ -63,7 +63,14 @@ nav ul li a{
 #project1 {
     font-size: 40px;
     color: #f25f5c;
+    width: 500px;
+    width: 700px;
 }
+
+#project1:hover {
+    transform: scale(1.1);
+}
+
 #project2 {
     font-size: 40px;
     color: #f25f5c;
